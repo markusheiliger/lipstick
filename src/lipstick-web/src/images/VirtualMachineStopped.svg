@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink" 
+     viewBox="0 0 16 16" height="100%" width="100%" aria-hidden="true" role="presentation" focusable="false">
+    <g>
+        <title></title>
+        <circle cx="8" cy="8" r="8" style="fill: rgb(122, 122, 122);"></circle>
+        <path d="M5 5h6v6H5V5z" style="fill: rgb(255, 255, 255);"></path>
+    </g>
+</svg>
